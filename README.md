@@ -11,6 +11,16 @@
 
 #### Part 2 靜態網頁爬蟲技術
 拆解靜態網頁的原理，解析並收集資料 
+- Day 07 : HTTP 靜態網頁架構說明與淺談HTML / CSS / JavaScript  
+- Day 08 : 靜態網頁的資料爬蟲策略  
+- Day 09 : 圖片下載  
+- Day 10 : PyQuery/grab  
+- Day 11 : Regular expression  
+- Day 12 : 實作：ETTODAY 靜態爬蟲實作練習  
+- Day 13 : 實作：PTT(批踢踢)網路爬蟲實作練習  
+- Day 14 : 實作：Yahoo! 電影網頁爬蟲實作練習  
+- Day 15 : 實作：金融資訊網頁爬蟲實作練習  
+- Day 16 : 實作：Wiki的爬蟲實作練習  
 
 #### Part 3 動態網頁爬蟲技術
 了解動態網頁的原理，模擬資料取得過程
